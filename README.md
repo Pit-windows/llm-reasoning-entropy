@@ -33,4 +33,4 @@ The experimental evaluation is divided into two distinct analyses:
 * **Analysis 1 (Cluster Divergence):** Investigates whether the divergence between trace clusters is maximized for the correct answer. It employs **Cubic Spline resampling** to align traces of varying lengths onto a common domain, calculating the **Pointwise Mean and SEM** (Standard Error of the Mean) for statistical comparison.
 * **Analysis 2 (Step-level Dynamics):** A descriptive study observing entropy variations ($\Delta H$) induced by individual steps. It identifies **divergent steps** that act as "scaffolding" (temporarily increasing uncertainty to enable complex logic) and **convergent steps** that refine the solution.
 
-![Curves processing and plotting](assets/curves_processing.svg)
+![Curves processing and plotting](assets/curves_processing.png)
