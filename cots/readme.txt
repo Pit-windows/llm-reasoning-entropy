@@ -1,0 +1,1 @@
+CoTs ottenute da "Generazione CoTs" usando Qwen/Qwen2.5-32B con dtype = torch.bfloat16
