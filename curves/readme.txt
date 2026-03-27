@@ -1,0 +1,1 @@
+answers ottenute da "CoTs to Entropy Curves" usando deepseek-ai/DeepSeek-R1-0528-Qwen3-8B con dtype = torch.bfloat16
