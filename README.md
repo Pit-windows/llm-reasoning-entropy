@@ -5,6 +5,8 @@ This repository contains the complete codebase and experimental data used for my
 The full text of the thesis, providing theoretical foundations and a detailed discussion of the results, is available in the root of this repository:
 **[Tesi Triennale - Pietro D'Agosto.pdf](./Tesi%20Triennale%20-%20Pietro%20D'Agosto.pdf)**
 
+Computing was performed via [Modal Notebooks](https://modal.com/products/notebooks) using an **NVIDIA A100 80GB GPU**.
+
 The implemented pipeline is explained in a top-down approach as follows:
 
 ### 1. Overview
