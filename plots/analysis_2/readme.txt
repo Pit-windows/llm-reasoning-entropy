@@ -1,0 +1,1 @@
+usando le curve entropiche ottenute da Qwen-Deepseek delle tracce corrette, si rilevano "cicli" divergenza/convergenza che corrispondono a sottoproblemi risolti nella traccia di ragionamento.
